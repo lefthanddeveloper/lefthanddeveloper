@@ -1,3 +1,7 @@
+
+![lefthandLogo_256](https://user-images.githubusercontent.com/85269091/178315563-71c5f4eb-4503-4f9a-a760-836d50dac268.png)
+
+
 - 👋 Hi, I’m @lefthanddeveloper
 - 👀 I’m interested in VR/AR, web, mobile, game development.
 - 🌱 I’m currently learning Unity, C#, React, Javasciprt, ...  
