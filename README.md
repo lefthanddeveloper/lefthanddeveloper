@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Unity, C#, React, Javasciprt, ...  
 - 💞️ I’m looking to collaborate on Unity or React Projects
 - 📫 How to reach me: Email me at lefthanddeveloper@gmail.com
+- 🤝 [Youtube](https://www.youtube.com/channel/UC3TUyEFfIAXuwCyxRQT24Uw) [Twitter](https://twitter.com/lefthand_dev) [Instagram](https://www.instagram.com/lefthanddeveloper/)
 
 <!---
 lefthanddeveloper/lefthanddeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
